@@ -91,7 +91,7 @@ credit-card-approval/
 
 ## Demo
 
-A short walkthrough video demo is available here: **\[Add your demo video link here]**
+A short walkthrough video demo is available here: **\[https://drive.google.com/file/d/1Hobzn46vpTnxX8ieK0yBJCpuMBvnm1eL/view?usp=drive_link]**
 
 ## Conclusion
 
